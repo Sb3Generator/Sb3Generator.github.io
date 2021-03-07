@@ -1,2 +1,2 @@
 # Sb3Generator.github.io
-取扱説明書はまだ作れませんね。
+Scratchのjsonを直接書き込みをしてみる試みです。
